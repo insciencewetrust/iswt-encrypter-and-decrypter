@@ -8,5 +8,5 @@ The random key generator generates keys by matching every character in the ASCII
 I am aware that the program currently has relatively limited functionality. I intend to change that in the upcoming versions. The upcoming changes will include but not be limited to:
 1) Adding a "mistake level" feature so that users do not have to go back to the very start when they enter an invalid option number
 2) Adding a feature that allows users to create their own, personalised key files within the program
-3) Making common encryption/decryption methods (MD5, SHA512 etc.) available
+3) Making common encryption/decryption methods available
 4) Making the random key generator more random and complex (e.g. by coming up with a different algorithm for odd and even indices, using multiple keys at the same time and so on)
